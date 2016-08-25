@@ -1,4 +1,4 @@
 Add some text for the second commit.
 Second line 
-Line from gitHhhub
+Line from gitHub
 Fourth line from local repo
